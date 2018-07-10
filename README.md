@@ -26,16 +26,16 @@ Settings for IntelliJ IDEA
 **_Building_**
 
 Do one of the following:
-- On the main menu choose **Build | Build Project 'PersonalExpensesManagementApp'**.
+- On the main menu choose **Build | Build Project 'PersonalExpensesManagementApplication'**.
 - Press Ctrl+Shift+F9.
 
 **_Running_**
 1) On the main menu choose **Run | Edit Configurations**;
 2) Click **Add New Configuration** or (**Alt + Insert**) and select **Application**;
-3) Enter or select name of **Main Class** "Main" and **Name** "ExpensesManagementApp" ;
+3) Enter or select name of **Main Class** "Main" and **Name** "ExpensesManagementApplication" ;
 4) click **Apply**;
 5) Do one of the following:
-  - On the main menu choose **Run | Run Project 'ExpensesManagementApp'**.
+  - On the main menu choose **Run | Run Project 'ExpensesManagementApplication'**.
   - Press Shift+F10.
 
 # **Technologies**
